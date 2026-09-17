@@ -12,3 +12,4 @@ com\abonnements\entity\StatutPaiement.class
 com\abonnements\dao\Dao.class
 com\abonnements\util\DateUtil.class
 com\abonnements\service\PaiementService.class
+com\abonnements\ui\Main.class
