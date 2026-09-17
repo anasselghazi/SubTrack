@@ -6,4 +6,6 @@ com\abonnements\dao\Dao.class
 com\abonnements\entity\Abonnement.class
 com\abonnements\dao\PaiementDAO.class
 com\abonnements\entity\AbonnementAvecEngagement.class
+com\abonnements\service\PaiementService.class
+com\abonnements\service\AbonnementService.class
 com\abonnements\entity\AbonnementSansEngagement.class
