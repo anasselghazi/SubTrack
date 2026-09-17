@@ -1,0 +1,9 @@
+com\abonnements\entity\StatutAbonnement.class
+com\abonnements\dao\AbonnementDAO.class
+com\abonnements\entity\Paiement.class
+com\abonnements\entity\StatutPaiement.class
+com\abonnements\dao\Dao.class
+com\abonnements\entity\Abonnement.class
+com\abonnements\dao\PaiementDAO.class
+com\abonnements\entity\AbonnementAvecEngagement.class
+com\abonnements\entity\AbonnementSansEngagement.class
